@@ -1,12 +1,12 @@
 
-# nfjhienf
+# ReadMe Generator
 ## Description
-fjnfjrf
+A readme generator created using Node.JS
   undefined
 
-        - Reason: fsfefe
-        - Solves: fesfs
-        - Lessons: ssefsfsef
+        - Reason: To be able to create professional readme files for future projects
+        - Solves: Having professional readme in your repositories
+        - Lessons: How to use node.js and what a professional read me includes
 
 ## Installation 
 undefined
@@ -20,23 +20,23 @@ undefined
 
   ## <span>Installation Instructions</span>
 
-  fsfese
+  Use node.js to create a readme for your Project
 
 
-  ## <span style="color:#FFD23F">Usage</span>
+  ## <span>Usage</span>
 
-  sfefs
+  To create professional read me for projects 
 
   ---
-  ## <span style="color:#FFD23F">How to Contribute</span>
+  ## <span>How to Contribute</span>
 
-  fsefsfse
+  Solomon Dorsey
 
   ---
   ## <span>FAQ</span>
 
-  Email: undefined
+  Email:  https://github.com/solm7
 
-  Github: [@sfsef](https://www.github.com/sfsef)
+  Github: [@dup1040@gmail.com](https://www.github.com/dup1040@gmail.com)
 
   

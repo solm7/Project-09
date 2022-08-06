@@ -92,8 +92,8 @@ ${data.install}
   ${data.Contributions}\n
   ---
   ## <span>FAQ</span>\n
-  Email: ${split[1]}\n
-  Github: [@${split[0]}](https://www.github.com/${split[0]})\n
+  Email: ${split[0]}\n
+  Github: [@${split[1]}](https://www.github.com/${split[1]})\n
   
 `;
 
